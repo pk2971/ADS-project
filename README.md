@@ -1,2 +1,4 @@
 # ADS-project
-Will include more info later pls be patient
+
+A Computational Analysis of Gender Perception in the UK Based on UK Parliamentary Transcripts. 
+
